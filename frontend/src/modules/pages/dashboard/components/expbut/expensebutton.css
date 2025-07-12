@@ -1,0 +1,11 @@
+.butt {
+	position: absolute;
+	margin-top: 1550px;
+	margin-left: 50px;
+	background-color: white;
+	width: 360px;
+	height: 250px;
+	font-size: 2rem;
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6);
+	font-weight: bold;
+}

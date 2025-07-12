@@ -1,0 +1,16 @@
+.nav {
+	justify-content: space-between;
+	align-items: center;
+	display: flex;
+	height: 60;
+	position: relative;
+	background-color: var(--headerbg);
+	color: #000000;
+}
+.l > img {
+	width: 50px;
+	height: 50px;
+}
+.user {
+	background: none;
+}
